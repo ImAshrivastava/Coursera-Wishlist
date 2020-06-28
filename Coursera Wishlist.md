@@ -9,17 +9,17 @@
   - [ ] Graph Search, Shortest Paths, and Data Structures
   - [ ] Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
   - [ ] Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
-- [ ] Cryptography I
+- [ ] Cryptography I :+1:
 - [ ] Cryptography II
 ---
 ####  Harvard
 - [ ] HarvardX's Computer Science and Mobile Apps Professional Certificate
-  - [ ] CS50's Introduction to Computer Science
+  - [ ] CS50's Introduction to Computer Science :+1:
   - [ ] CS50's Mobile App Development with React Native
 ---
 ####  Caltech
-- [ ] The Evolving Universe
-- [ ] The Science of the Solar Systems
+- [ ] The Evolving Universe :+1:
+- [ ] The Science of the Solar Systems :+1:
 ---
 ####  Imperial College London
 - [ ] Mathematics for Machine Learning Specialization
@@ -29,12 +29,12 @@
 ---
 ####  UCL
 - [ ] Introduction to Computer Science and Programming Specialization
-  - [x] Introduction to Computer Programming
+  - [x] Introduction to Computer Programming :+1:
   - [ ] How Computers Work
   - [ ] Mathematics for Computer Science
 
 - [ ] Machine Learning for All
-- [ ] Information Security: Context and Introduction
+- [ ] Information Security: Context and Introduction :+1:
 ---
 ####  EPFL
 - [ ] Functional Programming in Scala Specialization
@@ -53,10 +53,10 @@
 ---
 ####  University of Pennsylvania
 - [ ] Intellectual Property Law Specialization
-  - [ ] Introduction to Intellectual Property
-  - [ ] Copyright Law
-  - [ ] Trademark Law
-  - [ ] Patent Law
+  - [ ] Introduction to Intellectual Property :+1:
+  - [ ] Copyright Law :+1:
+  - [ ] Trademark Law :+1:
+  - [ ] Patent Law :+1:
 - [ ] Single Variable Calculus
 - [ ] Calculus: Single Variable Part 1
 - [ ] Calculus: Single Variable Part 2
@@ -69,23 +69,23 @@
 ---
 ####  University of Michigan
 - [ ] Python for Everybody Specialisation
-  - [x] Getting Started with Python
-  - [x] Python Data Structures
-  - [x] Using Python to Access Web Data
-  - [ ] Using Databases with Python
+  - [x] Getting Started with Python :+1:
+  - [x] Python Data Structures :+1:
+  - [x] Using Python to Access Web Data :+1:
+  - [ ] Using Databases with Python :+1:
   - [ ] Capstone: Retrieving, Processing, and Visualizing Data with Python
 - [ ] Python 3 Programming Specialization
-  - [x] Python Basics
-  - [ ] Python Functions, Files, and Dictionaries
+  - [x] Python Basics :+1:
+  - [ ] Python Functions, Files, and Dictionaries :+1:
   - [ ] Data Collection and Processing with Python
   - [ ] Python Classes and Inheritance
   - [ ] Python Project: pillow, tesseract, and opencv
 - [ ] User Experience Research and Design Specialization
-  - [ ] Introduction to User Experience Principles and Processes
-  - [ ] Understanding User Needs
-  - [ ] Evaluating Designs with Users
-  - [ ] UX Design: From Concept to Prototype
-  - [ ] UX Research at Scale: Surveys, Analytics, Online Testing
+  - [ ] Introduction to User Experience Principles and Processes :+1:
+  - [ ] Understanding User Needs :+1:
+  - [ ] Evaluating Designs with Users :+1:
+  - [ ] UX Design: From Concept to Prototype :+1:
+  - [ ] UX Research at Scale: Surveys, Analytics, Online Testing :+1:
   - [ ] UX (User Experience) Capstone
 ---
 ####  The University of Tokyo
@@ -112,8 +112,8 @@
   - [ ] iOS App Development Basics
   - [ ] App Design and Development for iOS
   - [ ] Build Your Own iOS App
-- [ ] Learn to Program: The Fundamentals
-- [ ] Learn to Program: Crafting Quality Code
+- [ ] Learn to Program: The Fundamentals :+1:
+- [ ] Learn to Program: Crafting Quality Code :+1:
 ---
 ####  The Hong Kong University of Science and Technology
 - [ ] Vector Calculus for Engineers
@@ -283,7 +283,7 @@
 - [ ] Build Your First Android App (Project-Centered Course)
 ---
 ####  McMaster University
-- [x] Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential
+- [x] Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential :+1:
 ---
 ####  University of Maryland, College Park
 - [ ] Cybersecurity Specialization
@@ -316,7 +316,7 @@
   - [ ] Android App Components
   - [ ] Engineering Maintainable Android Apps
   - [ ] Capstone MOOC for "Android App Development"
-- [ ] Introduction to Programming with MATLAB
+- [ ] Introduction to Programming with MATLAB :+1:
 ---
 ####  University of California, Irvine
 - [ ] An Introduction to Programming the Internet of Things (IOT) Specialization
@@ -416,11 +416,11 @@
   - [ ] Smart Contracts
   - [ ] Decentralized Applications (Dapps)
   - [ ] Blockchain Platforms
-- [ ] Computer Vision Basics
+- [ ] Computer Vision Basics :+1:
 - [ ] How to Write a Resume (Project-Centered Course)
 ---
 ####  Wesleyan University
-- [ ] Python Programming: A Concise Introduction
+- [ ] Python Programming: A Concise Introduction :+1:
 - [ ] Career Decisions: From Insight to Impact
 - [ ] How to Change the World
 ---
