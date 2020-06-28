@@ -234,7 +234,7 @@
   - [ ] Smart Device & Mobile Emerging Technologies
   - [ ] IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies
   - [ ] AR (Augmented Reality) & Video Streaming Services Emerging Technologies
-- Introduction to TCP/IP
+- [ ] Introduction to TCP/IP
 ---
 ####  Rice University
 - [ ] Fundamentals of Computing Specialization
