@@ -89,7 +89,7 @@
   - [ ] UX (User Experience) Capstone
 ---
 ####  The University of Tokyo
-- [ ] From the Big Bang to Dark Energy
+- [ ] From the Big Bang to Dark Energy :+1:
 ---
 ####  John Hopkins University
 - [ ] Data Science: Foundations using R Specialization
@@ -130,11 +130,11 @@
   - [ ] Information Visualization: Applied Perception
   - [ ] Information Visualization: Programming with D3.js
   - [ ] Information Visualization: Advanced Techniques
-- [ ] Introduction to Cyber Security Specialization
-  - [ ] Introduction to Cyber Attacks
-  - [ ] Cyber Attack Countermeasures
-  - [ ] Real-Time Cyber Threat Detection and Mitigation
-  - [ ] Enterprise and Infrastructure Security
+- [ ] Introduction to Cyber Security Specialization 
+  - [ ] Introduction to Cyber Attacks :+1:
+  - [ ] Cyber Attack Countermeasures :+1:
+  - [ ] Real-Time Cyber Threat Detection and Mitigation :+1:
+  - [ ] Enterprise and Infrastructure Security :+1:
 ---
 ####  The University of Sydney
 - [ ] Introduction to Calculus
@@ -167,12 +167,12 @@
   - [ ] Advanced Algorithms and Complexity
   - [ ] Genome Assembly Programming Challenge
 - [ ] Interaction Design Specialization
-  - [ ] Human-Centered Design: an Introduction
-  - [ ] Design Principles: an Introduction
-  - [ ] Social Computing
-  - [ ] Input and Interaction
-  - [ ] User Experience: Research & Prototyping
-  - [ ] Information Design
+  - [ ] Human-Centered Design: an Introduction :+1:
+  - [ ] Design Principles: an Introduction :+1:
+  - [ ] Social Computing :+1:
+  - [ ] Input and Interaction :+1:
+  - [ ] User Experience: Research & Prototyping :+1:
+  - [ ] Information Design :+1:
   - [ ] Designing, Running, and Analyzing Experiments
   - [ ] Interaction Design Capstone Project
 - [ ] Introduction to Discrete Mathematics for Computer Science Specialization
