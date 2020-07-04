@@ -222,19 +222,19 @@
   - [ ] Object-Oriented Data Structures in C++
   - [ ] Ordered Data Structures
   - [ ] Unordered Data Structures
-- [ ] 3D Printing Revolution
-- [ ] 3D Printing Hardware
-- [ ] 3D Printing Software
-- [ ] 3D Printing Applications
-- [ ] 3D Printing Capstone
+- [ ] 3D Printing Revolution :+1:
+- [ ] 3D Printing Hardware :+1:
+- [ ] 3D Printing Software :+1:
+- [ ] 3D Printing Applications :+1:
+- [ ] 3D Printing Capstone :+1:
 ---
 ####  Yonsei University
 - [ ] Emerging Technologies: From Smartphones to IoT to Big Data Specialization
-  - [ ] Big Data Emerging Technologies
-  - [ ] Smart Device & Mobile Emerging Technologies
-  - [ ] IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies
-  - [ ] AR (Augmented Reality) & Video Streaming Services Emerging Technologies
-- [ ] Introduction to TCP/IP
+  - [ ] Big Data Emerging Technologies :+1:
+  - [ ] Smart Device & Mobile Emerging Technologies :+1:
+  - [ ] IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies :+1:
+  - [ ] AR (Augmented Reality) & Video Streaming Services Emerging Technologies :+1:
+- [ ] Introduction to TCP/IP :+1:
 ---
 ####  Rice University
 - [ ] Fundamentals of Computing Specialization
@@ -252,7 +252,7 @@
   - [ ] Distributed Programming in Java
 ---
 ####  University of Geneva
-- [ ] Particle Physics: an Introduction
+- [ ] Particle Physics: an Introduction :+1:
 ---
 ####  University of California, Davis
 - [ ] Secure Coding Practices Specialization
