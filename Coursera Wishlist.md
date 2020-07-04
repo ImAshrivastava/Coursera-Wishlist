@@ -188,21 +188,21 @@
   - [ ] Mastering the Software Engineering Interview
   - [ ] Capstone: Analyzing (Social) Network Data
 - [ ] Internet of Things Specialization
-  - [ ] Internet of Things: How did we get here?
-  - [ ] Internet of Things V2: DragonBoard™ bring up and community ecosystem
-  - [ ] Internet of Things V2: Setting up and Using Cloud Services
-  - [ ] Internet of Things: Communication Technologies
-  - [ ] Internet of Things: Multimedia Technologies
-  - [ ] Internet of Things Capstone V2: Build a Mobile Surveillance System
+  - [ ] Internet of Things: How did we get here? :+1:
+  - [ ] Internet of Things V2: DragonBoard™ bring up and community ecosystem :+1:
+  - [ ] Internet of Things V2: Setting up and Using Cloud Services :+1:
+  - [ ] Internet of Things: Communication Technologies :+1:
+  - [ ] Internet of Things: Multimedia Technologies :+1: 
+  - [ ] Internet of Things Capstone V2: Build a Mobile Surveillance System 
 - [ ] Code Free Data Science
 ---
 ####  École Polytechnique
 - [ ] How to Write and Publish a Scientific Paper
-- [ ] Creating and Developing a Tech Startup
+- [ ] Creating and Developing a Tech Startup :+1:
 ---
 ####  Pohang University of Science And Technology
-- [ ] Introduction and Programming with IoT Boards
-- [ ] Programming with Cloud IoT Platforms
+- [ ] Introduction and Programming with IoT Boards :+1:
+- [ ] Programming with Cloud IoT Platforms :+1:
 ---
 ####  University of Zurich
 - [ ] An Intuitive Introduction to Probability
@@ -213,9 +213,9 @@
 - [ ] Programming Languages, Part B
 ---
 ####  Georgia Institute of Technology
-- [ ] Introduction to Electronics
-- [ ] Introduction to User Experience Design
-- [ ] Control of Mobile Robots
+- [ ] Introduction to Electronics :+1:
+- [ ] Introduction to User Experience Design :+1:
+- [ ] Control of Mobile Robots :+1:
 ---
 ####  University of Illinois at Urbana-Champaign
 - [ ] Accelerated Computer Science Fundamentals Specialization
