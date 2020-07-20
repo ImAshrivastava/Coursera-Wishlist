@@ -9,17 +9,17 @@
   - [ ] Graph Search, Shortest Paths, and Data Structures
   - [ ] Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
   - [ ] Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
-- [ ] Cryptography I :+1:
+- [ ] Cryptography I :+1: :white_check_mark:
 - [ ] Cryptography II
 ---
 ####  Harvard
 - [ ] HarvardX's Computer Science and Mobile Apps Professional Certificate
-  - [ ] CS50's Introduction to Computer Science :+1:
+  - [ ] CS50's Introduction to Computer Science :+1: :white_check_mark:
   - [ ] CS50's Mobile App Development with React Native
 ---
 ####  Caltech
-- [ ] The Evolving Universe :+1:
-- [ ] The Science of the Solar Systems :+1:
+- [ ] The Evolving Universe :+1: :white_check_mark:
+- [ ] The Science of the Solar Systems :+1: :white_check_mark:
 ---
 ####  Imperial College London
 - [ ] Mathematics for Machine Learning Specialization
@@ -29,7 +29,7 @@
 ---
 ####  UCL
 - [ ] Introduction to Computer Science and Programming Specialization
-  - [x] Introduction to Computer Programming :+1:
+  - [x] Introduction to Computer Programming :+1: :white_check_mark:
   - [ ] How Computers Work
   - [ ] Mathematics for Computer Science
 
@@ -53,10 +53,10 @@
 ---
 ####  University of Pennsylvania
 - [ ] Intellectual Property Law Specialization
-  - [ ] Introduction to Intellectual Property :+1:
-  - [ ] Copyright Law :+1:
-  - [ ] Trademark Law :+1:
-  - [ ] Patent Law :+1:
+  - [ ] Introduction to Intellectual Property :+1: :white_check_mark:
+  - [ ] Copyright Law :+1: :white_check_mark:
+  - [ ] Trademark Law :+1: :white_check_mark:
+  - [ ] Patent Law :+1: :white_check_mark:
 - [ ] Single Variable Calculus
 - [ ] Calculus: Single Variable Part 1
 - [ ] Calculus: Single Variable Part 2
@@ -81,15 +81,15 @@
   - [ ] Python Classes and Inheritance
   - [ ] Python Project: pillow, tesseract, and opencv
 - [ ] User Experience Research and Design Specialization
-  - [ ] Introduction to User Experience Principles and Processes :+1:
-  - [ ] Understanding User Needs :+1:
-  - [ ] Evaluating Designs with Users :+1:
-  - [ ] UX Design: From Concept to Prototype :+1:
-  - [ ] UX Research at Scale: Surveys, Analytics, Online Testing :+1:
+  - [ ] Introduction to User Experience Principles and Processes :+1: :white_check_mark:
+  - [ ] Understanding User Needs :+1: :white_check_mark:
+  - [ ] Evaluating Designs with Users :+1: :white_check_mark:
+  - [ ] UX Design: From Concept to Prototype :+1: :white_check_mark:
+  - [ ] UX Research at Scale: Surveys, Analytics, Online Testing :+1: :white_check_mark:
   - [ ] UX (User Experience) Capstone
 ---
 ####  The University of Tokyo
-- [ ] From the Big Bang to Dark Energy :+1:
+- [ ] From the Big Bang to Dark Energy :+1: :white_check_mark:
 ---
 ####  John Hopkins University
 - [ ] Data Science: Foundations using R Specialization
@@ -131,10 +131,10 @@
   - [ ] Information Visualization: Programming with D3.js
   - [ ] Information Visualization: Advanced Techniques
 - [ ] Introduction to Cyber Security Specialization 
-  - [ ] Introduction to Cyber Attacks :+1:
-  - [ ] Cyber Attack Countermeasures :+1:
-  - [ ] Real-Time Cyber Threat Detection and Mitigation :+1:
-  - [ ] Enterprise and Infrastructure Security :+1:
+  - [ ] Introduction to Cyber Attacks :+1: :white_check_mark:
+  - [ ] Cyber Attack Countermeasures :+1: :white_check_mark:
+  - [ ] Real-Time Cyber Threat Detection and Mitigation :+1: :white_check_mark:
+  - [ ] Enterprise and Infrastructure Security :+1: :white_check_mark:
 ---
 ####  The University of Sydney
 - [ ] Introduction to Calculus
@@ -167,12 +167,12 @@
   - [ ] Advanced Algorithms and Complexity
   - [ ] Genome Assembly Programming Challenge
 - [ ] Interaction Design Specialization
-  - [ ] Human-Centered Design: an Introduction :+1:
-  - [ ] Design Principles: an Introduction :+1:
-  - [ ] Social Computing :+1:
-  - [ ] Input and Interaction :+1:
-  - [ ] User Experience: Research & Prototyping :+1:
-  - [ ] Information Design :+1:
+  - [ ] Human-Centered Design: an Introduction :+1: :white_check_mark:
+  - [ ] Design Principles: an Introduction :+1: :white_check_mark:
+  - [ ] Social Computing :+1: :white_check_mark:
+  - [ ] Input and Interaction :+1: :white_check_mark:
+  - [ ] User Experience: Research & Prototyping :+1: :white_check_mark:
+  - [ ] Information Design :+1: :white_check_mark:
   - [ ] Designing, Running, and Analyzing Experiments
   - [ ] Interaction Design Capstone Project
 - [ ] Introduction to Discrete Mathematics for Computer Science Specialization
@@ -188,21 +188,21 @@
   - [ ] Mastering the Software Engineering Interview
   - [ ] Capstone: Analyzing (Social) Network Data
 - [ ] Internet of Things Specialization
-  - [ ] Internet of Things: How did we get here? :+1:
-  - [ ] Internet of Things V2: DragonBoard™ bring up and community ecosystem :+1:
-  - [ ] Internet of Things V2: Setting up and Using Cloud Services :+1:
-  - [ ] Internet of Things: Communication Technologies :+1:
-  - [ ] Internet of Things: Multimedia Technologies :+1: 
+  - [ ] Internet of Things: How did we get here? :+1: :white_check_mark:
+  - [ ] Internet of Things V2: DragonBoard™ bring up and community ecosystem :+1: :white_check_mark:
+  - [ ] Internet of Things V2: Setting up and Using Cloud Services :+1: :white_check_mark:
+  - [ ] Internet of Things: Communication Technologies :+1: :white_check_mark:
+  - [ ] Internet of Things: Multimedia Technologies :+1: :white_check_mark:
   - [ ] Internet of Things Capstone V2: Build a Mobile Surveillance System 
 - [ ] Code Free Data Science
 ---
 ####  École Polytechnique
 - [ ] How to Write and Publish a Scientific Paper
-- [ ] Creating and Developing a Tech Startup :+1:
+- [ ] Creating and Developing a Tech Startup :+1: :white_check_mark:
 ---
 ####  Pohang University of Science And Technology
-- [ ] Introduction and Programming with IoT Boards :+1:
-- [ ] Programming with Cloud IoT Platforms :+1:
+- [ ] Introduction and Programming with IoT Boards :+1: :white_check_mark:
+- [ ] Programming with Cloud IoT Platforms :+1: :white_check_mark:
 ---
 ####  University of Zurich
 - [ ] An Intuitive Introduction to Probability
@@ -213,28 +213,28 @@
 - [ ] Programming Languages, Part B
 ---
 ####  Georgia Institute of Technology
-- [ ] Introduction to Electronics :+1:
-- [ ] Introduction to User Experience Design :+1:
-- [ ] Control of Mobile Robots :+1:
+- [ ] Introduction to Electronics :+1: :white_check_mark:
+- [ ] Introduction to User Experience Design :+1: :white_check_mark:
+- [ ] Control of Mobile Robots :+1: :white_check_mark:
 ---
 ####  University of Illinois at Urbana-Champaign
 - [ ] Accelerated Computer Science Fundamentals Specialization
   - [ ] Object-Oriented Data Structures in C++
   - [ ] Ordered Data Structures
   - [ ] Unordered Data Structures
-- [ ] 3D Printing Revolution :+1:
-- [ ] 3D Printing Hardware :+1:
-- [ ] 3D Printing Software :+1:
-- [ ] 3D Printing Applications :+1:
-- [ ] 3D Printing Capstone :+1:
+- [ ] 3D Printing Revolution :+1: :white_check_mark:
+- [ ] 3D Printing Hardware :+1: :white_check_mark:
+- [ ] 3D Printing Software :+1: :white_check_mark:
+- [ ] 3D Printing Applications :+1: :white_check_mark:
+- [ ] 3D Printing Capstone :+1: :white_check_mark:
 ---
 ####  Yonsei University
 - [ ] Emerging Technologies: From Smartphones to IoT to Big Data Specialization
-  - [ ] Big Data Emerging Technologies :+1:
-  - [ ] Smart Device & Mobile Emerging Technologies :+1:
-  - [ ] IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies :+1:
-  - [ ] AR (Augmented Reality) & Video Streaming Services Emerging Technologies :+1:
-- [ ] Introduction to TCP/IP :+1:
+  - [ ] Big Data Emerging Technologies :+1: :white_check_mark:
+  - [ ] Smart Device & Mobile Emerging Technologies :+1: :white_check_mark:
+  - [ ] IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies :+1: :white_check_mark:
+  - [ ] AR (Augmented Reality) & Video Streaming Services Emerging Technologies :+1: :white_check_mark:
+- [ ] Introduction to TCP/IP :+1: :white_check_mark:
 ---
 ####  Rice University
 - [ ] Fundamentals of Computing Specialization
@@ -252,7 +252,7 @@
   - [ ] Distributed Programming in Java
 ---
 ####  University of Geneva
-- [ ] Particle Physics: an Introduction :+1:
+- [ ] Particle Physics: an Introduction :+1: :white_check_mark:
 ---
 ####  University of California, Davis
 - [ ] Secure Coding Practices Specialization
@@ -273,7 +273,7 @@
 - [ ] Data Processing Using Python
 ---
 ####  Leiden University
-- [ ] On Being a Scientist
+- [ ] On Being a Scientist :+1+
 ---
 ####  Politecnico di Milano
 - [ ] FPGA computing systems: Background knowledge and introductory materials
@@ -371,8 +371,8 @@
 - [ ] Introduction to Embedded Systems Software and Development Environments
 ---
 ####  Saint Petersburg State University
-- [ ] The Introduction to Quantum Computing
-- [ ] Physical Basics of Quantum Computing
+- [ ] The Introduction to Quantum Computing :+1+
+- [ ] Physical Basics of Quantum Computing :+1+
 - [ ] Competitive Programmer's Core Skills
 ---
 ####  Moscow Institute of Physics and Technology
@@ -385,8 +385,8 @@
 - [ ] Building Arduino robots and devices
 ---
 ####  Technion - Israel Institute of Technology
-- [ ] Nanotechnology and Nanosensors, Part1
-- [ ] Nanotechnology and Nanosensors, Part2
+- [ ] Nanotechnology and Nanosensors, Part1 :+1+
+- [ ] Nanotechnology and Nanosensors, Part2 :+1+
 ---
 ####  National Research University Higher School of Economics
 - [ ] Mathematics for Data Science Specialization
@@ -396,7 +396,7 @@
   - [ ] Probability Theory, Statistics and Exploratory Data Analysis
 ---
 ####  Peter the Great St. Petersburg Polytechnic University
-- [ ] Introduction to Biomedical Engineering
+- [ ] Introduction to Biomedical Engineering :+1+
 ---
 ####  University of California, Santa Cruz
 - [ ] C for Everyone: Structured Programming
@@ -408,7 +408,7 @@
 - [ ] Web Application Development: Basic Concepts
 ---
 ####  University System of Georgia
-- [ ] Cybersecurity and Its Ten Domains
+- [ ] Cybersecurity and Its Ten Domains :+1+
 ---
 ####  The State University of New York
 - [ ] Blockchain Specialization
@@ -416,14 +416,14 @@
   - [ ] Smart Contracts
   - [ ] Decentralized Applications (Dapps)
   - [ ] Blockchain Platforms
-- [ ] Computer Vision Basics :+1:
-- [ ] How to Write a Resume (Project-Centered Course)
+- [ ] Computer Vision Basics :+1: :white_check_mark:
+- [ ] How to Write a Resume (Project-Centered Course) :+1+
 ---
 ####  Wesleyan University
 - [ ] Python Programming: A Concise Introduction :+1:
-- [ ] Career Decisions: From Insight to Impact
-- [ ] How to Change the World
+- [ ] Career Decisions: From Insight to Impact :+1+
+- [ ] How to Change the World :+1:
 ---
 ####  Institut Mines-Télécom
-- [ ] Introduction to Satellite Communications
+- [ ] Introduction to Satellite Communications :+1:
 - [ ] Getting started with Augmented Reality
